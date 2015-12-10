@@ -1,4 +1,5 @@
-FROM ubuntu:15.04
+#FROM ubuntu:15.04
+FROM ubuntu:14.04
 
 ENV PANORAMIX_VERSION 0.5.1
 
